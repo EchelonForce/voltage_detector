@@ -361,7 +361,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "eurorack.kicad_pro",
+    "filename": "voltage_detector_v1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -395,7 +395,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "voltage_detector_v1_back.step",
       "vrml": ""
     },
     "page_layout_descr_file": "L:/Projects/KiCad_Lib/sheet_template_cc_nc_sa_4.0.kicad_wks"
